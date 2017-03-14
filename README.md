@@ -1,6 +1,6 @@
-# MSDeployProcessComparer
+# MSDeployTester
 
-Simple tool to compare the output of an MSDeploy publish with web.config transforms vs SetParameters
+Simple utility application for testing MSDeploy packages and SetParameters
 
 ## Manually Editing IIS Express Sites
 
